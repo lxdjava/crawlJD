@@ -1,0 +1,8 @@
+### STS ###
+.class
+### IntelliJ IDEA ###
+.idea
+
+###myself###
+target/
+/.idea
